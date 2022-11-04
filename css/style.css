@@ -159,7 +159,7 @@ body {
 
 .backgorund-container::before {
     content: '';
-    background-image: url(/images/background.png);
+    background-image: url(../images/background.png);
     background-repeat: no-repeat;
     max-width: 1041px;
     position: absolute;
@@ -194,7 +194,7 @@ body {
     content: "";
     width: 23px;
     height: 20px;
-    background: url(/images/icons/icon_user.svg) no-repeat;
+    background: url(../images/icons/icon_user.svg) no-repeat;
     position: absolute;
     top: 20px;
     left: 14px;
@@ -205,7 +205,7 @@ body {
     content: "";
     width: 24px;
     height: 18px;
-    background: url(/images/icons/icons_mail.svg) no-repeat;
+    background: url(../images/icons/icons_mail.svg) no-repeat;
     position: absolute;
     top: 20px;
     left: 14px;
@@ -216,7 +216,7 @@ body {
     content: "";
     width: 20px;
     height: 20px;
-    background: url(/images/icons/icon_phone.svg) no-repeat;
+    background: url(../images/icons/icon_phone.svg) no-repeat;
     position: absolute;
     top: 20px;
     left: 14px;
@@ -246,7 +246,7 @@ body {
     content: "";
     width: 367px;
     height: 299px;
-    background: url(images/icons/vector_line.svg) no-repeat;
+    background: url(../images/icons/vector_line.svg) no-repeat;
     position: absolute;
     z-index: 1;
 }
@@ -255,7 +255,7 @@ body {
     content: "";
     width: 305px;
     height: 367px;
-    background: url(/images/icons/vector_line.svg) no-repeat;
+    background: url(../images/icons/vector_line.svg) no-repeat;
     position: absolute;
     z-index: 1;
     left: 36%;
