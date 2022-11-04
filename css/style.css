@@ -652,7 +652,4 @@ body {
     .logo_header img {
         padding-bottom: 10px;
     }
-    .backgorund-container::before {
-        left: 50%;
-    }
 }
