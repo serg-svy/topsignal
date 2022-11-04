@@ -646,4 +646,7 @@ body {
     .email_form, .field_form, .firstname_form, .phone_form {
         width: 80%;
     }
+    .logo_header {
+        margin-right: 15px;
+    }
 }
